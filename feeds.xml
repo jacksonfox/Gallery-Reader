@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Rososo Feeds for jacksonfox@gmail.com</title>
+  </head>
+  <body>
+          <outline
+      text="yay!everyday"
+      title="yay!everyday"
+      type="rss"
+      xmlUrl="http://feeds.feedburner.com/yayeveryday" 
+      htmlUrl="http://yayeveryday.com/new_rss.xml"/>
+              <outline
+      text="Grain Edit"
+      title="Grain Edit"
+      type="rss"
+      xmlUrl="http://grainedit.com/feed/" 
+      htmlUrl="http://grainedit.com"/>
+              <outline
+      text="Design You Trust"
+      title="Design You Trust"
+      type="rss"
+      xmlUrl="http://designyoutrust.com/feed/" 
+      htmlUrl="http://designyoutrust.com"/>
+              <outline
+      text="NotForPaper"
+      title="NotForPaper"
+      type="rss"
+      xmlUrl="http://feedproxy.google.com/Notforpaper-TheBestDesignWorkForTheScreen" 
+      htmlUrl="http://notforpaper.com"/>
+              <outline
+      text="we love typography"
+      title="we love typography"
+      type="rss"
+      xmlUrl="http://feeds2.feedburner.com/WeLoveTypography" 
+      htmlUrl="http://welovetypography.com/"/>
+              <outline
+      text="FFFFOUND!"
+      title="FFFFOUND!"
+      type="rss"
+      xmlUrl="http://feeds.feedburner.com/ffffound/everyone" 
+      htmlUrl="http://ffffound.com/"/>
+              <outline
+      text="PicoCool"
+      title="PicoCool"
+      type="rss"
+      xmlUrl="http://feeds2.feedburner.com/picocool" 
+      htmlUrl="http://picocool.com"/>
+              <outline
+      text="Lovely Package"
+      title="Lovely Package"
+      type="rss"
+      xmlUrl="http://lovelypackage.com/feed/" 
+      htmlUrl="http://lovelypackage.com"/>
+              <outline
+      text="information aesthetics"
+      title="information aesthetics"
+      type="rss"
+      xmlUrl="http://infosthetics.com/atom.xml" 
+      htmlUrl="http://infosthetics.com/"/>
+              <outline
+      text="Book Cover Archive"
+      title="Book Cover Archive"
+      type="rss"
+      xmlUrl="http://feeds.feedburner.com/book_cover_archive" 
+      htmlUrl="http://bookcoverarchive.com/"/>
+              <outline
+      text="NOTCOT"
+      title="NOTCOT"
+      type="rss"
+      xmlUrl="http://www.notcot.com/atom.xml" 
+      htmlUrl="http://www.notcot.com/"/>
+              <outline
+      text="TheDieline"
+      title="TheDieline"
+      type="rss"
+      xmlUrl="http://www.thedieline.com/blog/atom.xml" 
+      htmlUrl="http://www.thedieline.com/blog/"/>
+              <outline
+      text="oobject"
+      title="oobject"
+      type="rss"
+      xmlUrl="http://www.oobject.com/feed/?sortby=posted" 
+      htmlUrl="http://www.oobject.com"/>
+              <outline
+      text="Smashing Magazine"
+      title="Smashing Magazine"
+      type="rss"
+      xmlUrl="http://www.smashingmagazine.com/feed/" 
+      htmlUrl="http://www.smashingmagazine.com"/>
+              <outline
+      text="Konigi"
+      title="Konigi"
+      type="rss"
+      xmlUrl="http://feeds.feedburner.com/konigi" 
+      htmlUrl="http://konigi.com"/>
+              <outline
+      text="inspireUX"
+      title="inspireUX"
+      type="rss"
+      xmlUrl="http://www.inspireux.com/feed/" 
+      htmlUrl="http://www.inspireux.com"/>
+              <outline
+      text="deputydog"
+      title="deputydog"
+      type="rss"
+      xmlUrl="http://deputy-dog.com/feeds/posts/default" 
+      htmlUrl="http://deputy-dog.com/"/>
+              <outline
+      text="Core77"
+      title="Core77"
+      type="rss"
+      xmlUrl="http://feeds.feedburner.com/core77/blog" 
+      htmlUrl="http://www.core77.com/blog/"/>
+      
+  </body>
+</opml>

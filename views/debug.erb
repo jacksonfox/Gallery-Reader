@@ -1,0 +1,11 @@
+<table>
+<% @stories.each do |s| %>
+	<tr>
+		<th><a href="<%= s[:url] %>"><%= s[:title] %></a></th>
+		<td><a href="<%= s[:feedurl] %>"><%= s[:feed] %></a></td>
+		<td><%= s[:date] %></td>
+		<td><%= s[:src] %></td>
+	</div>
+	</tr>
+<% end %>
+</table>

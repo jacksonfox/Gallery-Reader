@@ -1,0 +1,11 @@
+<% @stories.each do |s| %>
+	<% unless s[:src].empty? %>
+	<div class="item">
+		<a href="<%= s[:url] %>"><img src="<%= s[:src] %>" /></a>
+	<% else %>
+	<div class="item no-img">
+	<% end %>
+		<h2><a href="<%= s[:url] %>"><%= s[:title] %></a></h2>
+		<p><a href="<%= s[:feedurl] %>"><%= s[:feed] %></a></p>
+	</div>
+<% end %>
